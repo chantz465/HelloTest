@@ -1,0 +1,15 @@
+C:\Users\chant\Repo\HelloTest\HelloTest\bin\Debug\net7.0\HelloTest.exe
+C:\Users\chant\Repo\HelloTest\HelloTest\bin\Debug\net7.0\HelloTest.deps.json
+C:\Users\chant\Repo\HelloTest\HelloTest\bin\Debug\net7.0\HelloTest.runtimeconfig.json
+C:\Users\chant\Repo\HelloTest\HelloTest\bin\Debug\net7.0\HelloTest.dll
+C:\Users\chant\Repo\HelloTest\HelloTest\bin\Debug\net7.0\HelloTest.pdb
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.csproj.AssemblyReference.cache
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.AssemblyInfoInputs.cache
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.AssemblyInfo.cs
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.csproj.CoreCompileInputs.cache
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.dll
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\refint\HelloTest.dll
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.pdb
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\HelloTest.genruntimeconfig.cache
+C:\Users\chant\Repo\HelloTest\HelloTest\obj\Debug\net7.0\ref\HelloTest.dll
